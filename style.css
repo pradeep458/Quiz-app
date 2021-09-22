@@ -1,0 +1,50 @@
+body{
+  background-image: linear-gradient(to right top, #d1f2ec, #caf0f0, #c4edf5, #c1eaf9, #c2e6fd, #c2e4fb, #c3e3f9, #c3e1f7, #c4e2f0, #c8e2e9, #cde1e3, #d4e0df);
+  justify-content: center;
+  padding-top: 10rem;
+    padding-left: 10rem;
+}
+
+
+.quizContainer{
+  background-image: linear-gradient(to right top, #ededed, #ededed, #ececec, #ececec, #ebebeb, #eaeaea, #e8e8e8, #e7e7e7, #e5e5e5, #e3e4e3, #e2e2e2, #e0e0e0);
+width:40%;
+margin: auto;
+overflow: hidden;
+}
+
+.textCentre{
+  /* margin: auto;
+  width: 100px; */
+overflow: hidden;
+display: grid;
+
+}
+ul{
+  list-style-type: none;
+padding:0 20px 0 20px;
+}
+.list{
+  line-height: 2rem;
+}
+.button{
+  background-color: #2274A5;
+  width: 100%;
+  height:2.5rem;
+  line-height: 1.5rem;
+  margin-top: 1rem;
+  border: none;
+}
+.reload{
+  
+      width: 80%;
+      height: 2.5rem;
+      line-height: 1.5rem;
+      margin: auto;
+      border: none;
+      background-color: #2274A5;
+      font-size: 1rem;
+      font-weight: 900;
+
+
+}
